@@ -3,7 +3,7 @@ cask "slowed-and-reverb" do
   version "0.1.0"
   sha256 "29198ef362cb9c0d29a698d6b8c9f4ad9ac79caf3fd171c85a780a1a4a25d8d3"
 
-  url "https://github.com/truehhart/slowed-and-reverb/releases/download/untagged-4681e838d0e0c9d1ccc1/Slowed.and.Reverb_0.1.0_aarch64.dmg"
+  url "https://github.com/truehhart/slowed-and-reverb/releases/download/v0.1.0/Slowed.and.Reverb_0.1.0_aarch64.dmg"
   name "Slowed and Reverb"
   desc "Play YouTube audio slowed and reverbed"
   homepage "https://github.com/truehhart/slowed-and-reverb"
